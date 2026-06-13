@@ -4,7 +4,7 @@ Personal Frontend Developer Portfolio Website showcasing my projects, technical 
 
 ## 🌐 Live Website
 
-https://rafiantoas.github.io/
+https://rafiantoas.github.io/RafiantoAS.github.io./
 
 ---
 
@@ -142,7 +142,7 @@ www.linkedin.com/in/rafianto-adhi-sampurno
 
 ### GitHub
 
-github.com/RafiantoAS
+https://github.com/RafiantoAS
 
 ### Email
 
